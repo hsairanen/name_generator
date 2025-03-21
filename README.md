@@ -14,13 +14,21 @@ In the end, we were quite happy with our model and the names it generated—but 
 The model was coded in Python, and the project structure is as follows:
 
 Folder data: Contains raw data from the data sources
+
 Folder input_data: Filtered and prepared data for the models
+
 Folder kotus-sanalista-v1: Finnish dictionary
+
 Folder old: Discarded code from the project
+
 Folder results: Model results
+
 Files beginning with 00_: Code for preparing raw data
+
 Files beginning with 01_: Code for preparing modeling data
+
 Files beginning with 02_: Different model versions
+
 Files beginning with 03_: Code for assessing the results
 
 
